@@ -1,0 +1,1 @@
+# Performing-a-parallel-ETL-Extract-Transform-Load-operation-using-Amazon-Redshift-and-S3
